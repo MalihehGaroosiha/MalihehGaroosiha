@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maliheh(Miley)Garoosiha
+- 👋 Hi, I’m Maliheh(Meli)Garoosiha
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on NLP projects
